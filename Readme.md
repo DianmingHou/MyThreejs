@@ -7,3 +7,6 @@
    Live Server,Markdown All in One,open in browser,Path Autocompelete, Quokka.js
 
  -  按
+## 主要参考
+[Threejs中文网](http://www.webgl3d.cn/Three.js/)
+# 主要内容
